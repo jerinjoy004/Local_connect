@@ -1,2 +1,2 @@
 # Local_connect
-community marketplace and service platform
+community marketplace and service platform...
